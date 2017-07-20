@@ -1,0 +1,21 @@
+{
+  "name": "Bird Nerd",
+  "description": "An app for recording and identifying birds",
+  "main": "index.js",
+  "authors": [
+    "Jenny Hoelzer"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  }
+}
